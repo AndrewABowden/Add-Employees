@@ -1,0 +1,47 @@
+body {
+    background-color: F5ECE8
+}
+
+.header {
+    align-content: center;
+    text-align: center;
+    background-color: #070040;
+    padding: 30px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    color: white;
+}
+.header-column{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+h3 {
+    background-color: #F5ECE8;
+    width:100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+
+.search-form {
+    border: .5px solid #F5ECE8;
+    padding: 5px;
+
+}
+.form-group {
+    padding: 5px;
+}
+.button-holder {
+    padding: 5px;
+}
+.results-form {
+    margin-top: 10px;
+}
+
+a {
+    margin-left: 5px;
+}
+p {
+    margin-left: 7px;
+}
